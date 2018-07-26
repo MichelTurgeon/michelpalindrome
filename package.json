@@ -1,0 +1,19 @@
+{
+  "name": "michel-palindrome",
+  "version": "0.1.0",
+  "description": "test palindrome",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichelTurgeon/michel-palindrome.git"
+  },
+  "author": "Michel Turgeon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichelTurgeon/michel-palindrome/issues"
+  },
+  "homepage": "https://github.com/MichelTurgeon/michel-palindrome#readme"
+}
